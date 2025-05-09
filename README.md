@@ -8,9 +8,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## 📌 Features
 
